@@ -8,7 +8,7 @@
 - [x] add / commit
 - [x] pull / push
 - [x] pull requests
-- [x] merge conflicts (solving them)
+- [ ] merge conflicts (solving them)
 
 - [ ] create new repository
 - [ ] push things into it
