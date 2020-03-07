@@ -1,14 +1,14 @@
 # Notes
 
-- [ ] what is git
-- [ ] github/gitlab/bitbucket
-- [ ] command line
-- [ ] commands
-- [ ] local vs remote
-- [ ] add / commit
-- [ ] pull / push
-- [ ] pull requests
-- [ ] merge conflicts (solving them)
+- [x] what is git
+- [x] github/gitlab/bitbucket
+- [x] command line
+- [x] commands
+- [x] local vs remote
+- [x] add / commit
+- [x] pull / push
+- [x] pull requests
+- [x] merge conflicts (solving them)
 
 - [ ] create new repository
 - [ ] push things into it
